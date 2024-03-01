@@ -52,7 +52,9 @@ button {
 }
 
 .box-container {
-  width: 360px;
-  height: 360px;
+  width: 500px;
+  height: 500px;
   border: #212529 solid 1px;
+  display: flex;
+  flex-wrap: wrap;
 }
